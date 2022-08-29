@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text{
+    border: 5px solid transparent;
+    height: 50vh;
+    margin-top: 0rem;
+}
+.text button{
+    transform: translateX(-20px);
+}
+.text .container-fluid>h2{
+    color: rgb(255, 255, 255);
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+}
+.t-text{
+    color: #fff;
+}
